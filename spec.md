@@ -1,10 +1,10 @@
-# FastCGI Specification
+# FastCGI 说明
 
 Mark R. Brown  
 Open Market, Inc.
 
-Document Version: 1.0  
-29 April 1996
+文档岸本: 1.0  
+1996年 4月 29日
 
 **Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.**  
 **Tel: 617-621-9500 Fax: 617-621-1703 URL: http://www.openmarket.com/**
@@ -13,8 +13,8 @@ Document Version: 1.0
 
 * * *
 
-  1. [Introduction](#1-introduction)
-  2. [Initial process state](#2-initial-process-state)
+  1. [简介](#1-introduction)
+  2. [初始化进程状态](#2-initial-process-state)
       1. [Argument list](#21-argument-list)
       2. [File descriptors](#22-file-descriptors)
       3. [Environment variables](#23-environment-variables)
@@ -47,7 +47,7 @@ Document Version: 1.0
 
 * * *
 
-## 1. Introduction
+## 1. 简介
 
 FastCGI is an open extension to CGI that provides high performance for all Internet applications without the penalties of Web server APIs.
 
