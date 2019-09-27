@@ -13,7 +13,7 @@ Open Market, Inc.
 
 * * *
 
-  1. [简介](#1-introduction)
+  1. [简介](#1-简介)
   2. [初始化进程状态](#2-initial-process-state)
       1. [Argument list](#21-argument-list)
       2. [File descriptors](#22-file-descriptors)
